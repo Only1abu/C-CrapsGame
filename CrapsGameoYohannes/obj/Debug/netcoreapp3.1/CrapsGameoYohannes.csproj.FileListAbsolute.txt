@@ -1,0 +1,14 @@
+/Users/user/Projects/CrapsGameoYohannes/CrapsGameoYohannes/obj/Debug/netcoreapp3.1/CrapsGameoYohannes.csproj.AssemblyReference.cache
+/Users/user/Projects/CrapsGameoYohannes/CrapsGameoYohannes/obj/Debug/netcoreapp3.1/CrapsGameoYohannes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Projects/CrapsGameoYohannes/CrapsGameoYohannes/obj/Debug/netcoreapp3.1/CrapsGameoYohannes.AssemblyInfoInputs.cache
+/Users/user/Projects/CrapsGameoYohannes/CrapsGameoYohannes/obj/Debug/netcoreapp3.1/CrapsGameoYohannes.AssemblyInfo.cs
+/Users/user/Projects/CrapsGameoYohannes/CrapsGameoYohannes/obj/Debug/netcoreapp3.1/CrapsGameoYohannes.csproj.CoreCompileInputs.cache
+/Users/user/Projects/CrapsGameoYohannes/CrapsGameoYohannes/bin/Debug/netcoreapp3.1/CrapsGameoYohannes
+/Users/user/Projects/CrapsGameoYohannes/CrapsGameoYohannes/bin/Debug/netcoreapp3.1/CrapsGameoYohannes.deps.json
+/Users/user/Projects/CrapsGameoYohannes/CrapsGameoYohannes/bin/Debug/netcoreapp3.1/CrapsGameoYohannes.runtimeconfig.json
+/Users/user/Projects/CrapsGameoYohannes/CrapsGameoYohannes/bin/Debug/netcoreapp3.1/CrapsGameoYohannes.runtimeconfig.dev.json
+/Users/user/Projects/CrapsGameoYohannes/CrapsGameoYohannes/bin/Debug/netcoreapp3.1/CrapsGameoYohannes.dll
+/Users/user/Projects/CrapsGameoYohannes/CrapsGameoYohannes/bin/Debug/netcoreapp3.1/CrapsGameoYohannes.pdb
+/Users/user/Projects/CrapsGameoYohannes/CrapsGameoYohannes/obj/Debug/netcoreapp3.1/CrapsGameoYohannes.dll
+/Users/user/Projects/CrapsGameoYohannes/CrapsGameoYohannes/obj/Debug/netcoreapp3.1/CrapsGameoYohannes.pdb
+/Users/user/Projects/CrapsGameoYohannes/CrapsGameoYohannes/obj/Debug/netcoreapp3.1/CrapsGameoYohannes.genruntimeconfig.cache
